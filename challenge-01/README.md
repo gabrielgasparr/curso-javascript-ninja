@@ -36,7 +36,9 @@ soma === myvar
 myvar <= myvar
 
 // Crie uma função chamada `divisao` que receba como parâmetro dois números, e retorne o resultado da divisão entre eles.
-var divisão = (x/y)
+var divisão = (x/y) {
+return = x/y;
+}
 
 // Invoque a função criada acima, passando os parâmetros 10 e 2.
 var divisão = 10/2
